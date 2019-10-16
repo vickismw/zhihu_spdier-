@@ -1,4 +1,4 @@
-# zhihu_spdier-
+# zhihu_spider-
 实现自动登陆知乎
 
 from selenium import webdriver
